@@ -14,7 +14,7 @@ A 6-DOF robotic arm that mirrors human arm movement in real-time using dual-came
 
 ## Tech Stack
 - Python, OpenCV, MediaPipe, NumPy, PyGame
-- Arduino C++, ESP32
+- Arduino C++
 - SolidWorks, 3D Printing (custom servo mounts)
 
 ## Files
